@@ -1,0 +1,4 @@
+Cadena de conexion
+mongodb+srv://Fer:Heladera1@cluster0.pgxzp.mongodb.net/thanos
+Contraseña
+Heladera1
